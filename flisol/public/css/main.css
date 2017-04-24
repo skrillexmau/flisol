@@ -1,0 +1,97 @@
+body{
+	background-color: #000000;
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;	
+}
+main {
+    flex: 1 0 auto;
+}
+footer{
+	margin-top: -3%;
+	padding-top: 0%;
+}
+/*Clases*/
+.card{
+	border-radius: 3%;
+}
+.card-action{
+	border-radius: 1%;
+}
+.justify{
+	text-align: justify;
+}
+.footxt{
+	color:#fafafa;
+}
+.icnsz{
+	max-width: 10%;
+}
+
+	/*Ids*/
+#talleres{
+	font-size: 3.5em;
+}
+#banner{
+	border-radius: 2%;
+}
+#linuxmargin{
+	padding-bottom: 9%;
+}
+#back2{
+	background-color: #80d8ff;
+}
+#modalfooter:hover{
+	background-color: #757575;
+	color: #fafafa;
+}
+
+	/*img*/
+#flisol{
+	margin-top: 5%;
+	padding-top: 5%;
+	padding-bottom: 5%;
+	max-width: 100%;
+}
+#android{
+	max-width: 56%;
+	margin-top: -3%;
+	margin-left: 20%;
+}
+#git{
+	max-width: 79.4%;
+	padding-top: 1%;
+	margin-left: 10%;
+}
+#arduino{
+	max-width: 99.9%;
+}
+#linux{
+	margin-top: 3%;
+	max-width: 70%;
+	margin-left: 18%;
+}
+#flask{
+	max-width: 75%;
+	margin-left: 17%;
+	padding-top: 2%;
+}
+#fb{
+	max-width: 94%;
+}
+#twt{
+	margin-top: 2%;
+	max-width: 80%;	
+}
+#wd{
+	margin-top: 10.5%;
+}
+#blndr{
+	margin-top: 10.5%;
+	margin-left: 5%;
+	max-width: 96%;
+}
+#scribus{
+	margin-left: 1%;
+	max-width: 95%;
+}

@@ -1,0 +1,28 @@
+/*Fonts*/
+.latofont{
+	font-family: 'Lato', sans-serif;
+}
+.robotofont{
+	font-family: 'Roboto', sans-serif;
+}
+.droidseriffont{
+	font-family: 'Droid Serif', serif;
+}
+.notosansfont{
+	font-family: 'Noto Sans', sans-serif;
+}
+.bitterfont{
+	font-family: 'Bitter', serif;	
+}
+.mavenprofont{
+	font-family: 'Maven Pro', sans-serif;
+}
+.infocursos{
+	font-size: 1.4em;
+	font-family: 'Maven Pro', sans-serif;
+}
+/*Ids*/
+#textwd{
+	margin-bottom: -3%;
+	font-size: 3.7em;
+}

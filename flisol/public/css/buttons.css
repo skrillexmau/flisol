@@ -1,0 +1,86 @@
+/*General Buttons*/
+.gnlbutton{
+	margin-left: 2px;	
+}
+.gnlbutton:hover{
+	background-color: white;
+	color: #00838f;
+}
+
+/* Navbar buttons*/
+#linuxbutton:hover{
+	background-color: #424242;
+}
+#tallers:hover{
+	background-color: #424242;
+}
+/* Card's Talleres*/
+
+	/*Android*/
+#butonandroid{
+	background-color: #52BC56;
+}
+#butonandroid:hover{
+	background-color: white;
+	color:#4caf50;
+}
+	/*Git*/
+#butongit{
+	background-color: #E8880C;
+}
+#butongit:hover{
+	background-color: white;
+	color: #ff6f00;
+}
+	/*Arduino*/
+#butonarduino:hover{
+	background-color: white;
+	color: #00838f;
+}
+	/*Python*/
+#butonpython{
+	background-color: #fbc02d;
+}
+#butonpython:hover{
+	background-color: white;
+	color: #ffab00;
+}
+	/*Web Design*/
+#butonwebdesign{
+	background-color: #0938B2;
+}
+#butonwebdesign:hover{
+	background-color: white;
+	color: #1a237e;
+}
+	/*Flask*/
+#butonflask{
+	background-color: #d81b60;
+}
+#butonflask:hover{
+	background-color: white;
+	color: #e91e63;
+}
+	/*Blender*/
+#butonblender{
+	background-color: #e65100;
+}
+#butonblender:hover{
+	background-color: white;
+	color: #ef6c00;
+}
+	/*Scribus*/
+#butonscribus{
+	background-color: #1565c0;
+}
+#butonscribus:hover{
+	background-color: white;
+	color: #1976d2;
+}
+
+#link_ubu{
+	color:black;
+}
+#link_ubu:hover{
+	color:white;
+}
